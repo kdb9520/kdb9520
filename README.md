@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kdb9520
 - 👀 I’m interested in crypto, AI, and all things compsci.
-- 🌱 I’m currently learning CompSci at RIT and Javascript on FreeCodeCamp.
+- 🌱 I’m currently majoring in Computer Science at the Rochester Iinstitute of Technology and learning JavaScript on FreeCodeCamp.
 - 📫 Reach me on LinkedIn https://www.linkedin.com/in/kellendbell/
 
 <!---
